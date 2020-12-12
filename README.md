@@ -1,2 +1,2 @@
-# JavaRush
-Test
+# JavaRus
+Check
